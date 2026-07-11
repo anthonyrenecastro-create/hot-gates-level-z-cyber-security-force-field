@@ -1,0 +1,15 @@
+# Shadow Army Red Breaker - Python Dependencies
+# Threat Intelligence & Hot Gates Backend API
+
+# No external dependencies required for core functionality
+# The system uses only Python standard library:
+# - dataclasses (Python 3.7+)
+# - typing (Python 3.5+)
+# - datetime (standard library)
+# - json (standard library)
+
+# Optional: Development/Testing
+# pytest>=7.0.0
+# pytest-cov>=4.0.0
+# mypy>=1.0.0
+# black>=23.0.0
